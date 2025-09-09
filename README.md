@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Full Name:** `Kishan Prasad
+- **Full Name:** Kishan Prasad
 - **CCID:** kkprasad
 
 ## References and Resources
